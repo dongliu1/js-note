@@ -9,8 +9,8 @@ for(let i = 0 ;i<arr.length;i++){
 }
 ```
 ### 2、for of
-**遍历value**<br/>
-	1.默认
+遍历value<br/>
+		1.默认
 ```javascript
 for(let value of arr){
 	
@@ -22,13 +22,13 @@ for(let value of arr.values()){
 	
 }
 ```
-**遍历key**
+遍历key
 ```javascript
 for (let key of arr.keys()){
 	
 }
 ```
-**遍历value与key**
+遍历value与key
 ```javascript
 for(let [key,value] of arr.entries){
 	
