@@ -10,7 +10,8 @@ for(let i = 0 ;i<arr.length;i++){
 ```
 ### 2、for of
 遍历value<br/>
-		1.默认
+
+	1.默认
 ```javascript
 for(let value of arr){
 	
