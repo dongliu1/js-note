@@ -8,4 +8,5 @@ js基础知识笔记
 	for in | Object.keys | Object.values | Object.getOwnPropertyNames | Reflect.ownKeys | $.each
 ## 对象Object操作方法
 	delete | 点操作符和方括号操作符 | hasOwnProperty | in | Object.assign | Object.freeze | JSON.stringify
+## http缓存
 	
